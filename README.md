@@ -2,3 +2,5 @@
 
 # SpringBootApp
 for GCI'19
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
